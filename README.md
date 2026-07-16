@@ -1,9 +1,24 @@
-# AI-DRIVEN ANALYSIS OF PILGRIM EXPERIENCES: ENHANCING HAJJ AND UMRAH SERVICES THROUGH SMART DATA INSIGHTS   
+# Multilingual Sentiment Analysis Platform for Hajj & Umrah Feedback
 
 # About|Description    
          This application leverages AI to analyze and interpret sentiments (comments) from pilgrims participating in Hajj and Umrah. It provides valuable demographic and cross-demographic insights—focusing on age, gender, and nationality—to help stakeholders better understand the experiences and backgrounds of pilgrims.    
          The Sentiment Analysis module classifies comments from pilgrims as either positive or negative, enabling service providers to assess satisfaction levels and identify recurring issues. This insight is crucial for enhancing service delivery and addressing pilgrims’ concerns.    
-         Given the volume and linguistic diversity of over 30 million comments across 27+ languages, this tool offers a scalable and systematic approach for Saudi authorities and Hajj/Umrah service providers to make data-driven decisions.       
+         Given the volume and linguistic diversity of over 30 million comments across 27+ languages, this tool offers a scalable, potential use case, and systematic approach for Saudi authorities and Hajj/Umrah service providers to make data-driven decisions.       
+
+# NLP Pipeline 
+Raw Comments   
+↓     
+Language Detection    
+↓    
+Translation    
+↓   
+Text Cleaning    
+↓    
+Sentiment Classification    
+↓    
+Dashboard    
+↓     
+Export Results    
 
 # Functionalities    
 # 1. Dashboard Module    
