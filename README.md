@@ -94,6 +94,9 @@ o       predicts sentiment
 o       calculates confidence scores   
 o       allows exportation of results     
 
+<img width="1903" height="882" alt="image" src="https://github.com/user-attachments/assets/e7f0a762-3f28-4853-871a-7b6a8f2ac422" />    
+
+
 ### 4. Documentation Module   
 •	Contains detailed guidance on system requirements, usage, inputs, and architecture.  
 
