@@ -1,5 +1,9 @@
 # Multilingual AI Platform for Pilgrim Sentiment Analysis   
 
+## Live Demo   
+
+https://mqsygvcsmjbgregw7vpb44.streamlit.app/    
+
 ### AI-powered multilingual sentiment analysis and demographic analytics for Hajj & Umrah service improvement   
 
 <img width="1911" height="860" alt="image" src="https://github.com/user-attachments/assets/18e7b69c-885c-41c4-9117-ba280503c4aa" />        
