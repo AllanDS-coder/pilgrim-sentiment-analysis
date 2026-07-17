@@ -255,7 +255,8 @@ This feature can be accessed from the homepage (https://sentimentalanalysispilgr
 <img width="494" height="154" alt="backhome" src="https://github.com/user-attachments/assets/28306de5-3e02-4374-b1c0-dc3ac930e95e" />
 
 
-Double click on the Cross-Demographic and Demographic Analysis button to navigate to demographic and cross demographic analysis section.      
+Double click on the Cross-Demographic and Demographic Analysis button to navigate to demographic and cross demographic analysis section.  
+
 In this section, the user can get comprehensive and interactive insights into the demographics of Hajj and Umrah pilgrims. The key characteristics analyzed here in include: 
 
         •	Age Distribution: Interactive visualizations illustrating the range and concentration of pilgrims’ ages.    
@@ -316,7 +317,7 @@ Once on the main page, https://sentimentalanalysispilgrim-mwaaysgfzdssubzst7dba2
 
 
   
-This feature accepts data inputs as files or text comments. Future improvements will include url and API to allow for real-time sentimental and text classification analysis. For sentiment and text classification analysis, a user can upload a file, type, or copy and paste comments appropriately. Once loaded the data is analyzed and output displayed as dataframe which can be downloaded for further analysis or documentation.  
+This feature accepts data inputs as files or text comments. Future improvements will include url and API to allow for real-time sentimental and text classification analysis. For sentiment and text classification analysis, a user can upload a file, type, or copy and paste comments appropriately. Once loaded the data is analyzed and output displayed as dataframe which can be downloaded for further analysis or documentation.   
 
 The expected output is:     
 
@@ -328,7 +329,8 @@ Once done, a user can input more data or navigate to the main page using the Bac
 
 # Tech Stack
 
-PilgrimageAI is built using a modern and modular tech stack, enabling real-time data visualization, multilingual NLP processing, and a rich interactive user experience. Here's a breakdown of the technologies used:     
+PilgrimageAI is built using a modern and modular tech stack, enabling real-time data visualization, multilingual NLP processing, and a rich interactive user experience. Here's a breakdown of the technologies used:       
+
 Backend & App Framework     
 •	Python: Core programming language for logic, data processing, and NLP.     
 •	Streamlit: Rapid web app framework used to build interactive dashboards and forms.      
@@ -357,6 +359,7 @@ Backend & App Framework
 •	Streamlit Watchdog Disabled: To avoid inotify limit errors on Linux systems, file system watchers are turned off with:      
          os.environ["STREAMLIT_DISABLE_WATCHDOG_WARNINGS"] = "true"
          os.environ["STREAMLIT_WATCHDOG_MODE"] = "none"
+         
 OpenAI and Chatgpt:  to improve generated codes and debugging the app end-to-end      
 
 #### Code Structure 
