@@ -225,9 +225,7 @@ This project strengthened my skills in developing end-to-end AI applications by 
 
 ---
 
-# Introduction 
-
-## About the Documentation 
+# Documentation: Using the Application
 
 This documentation provides insights about the application. It highlights valuable information about the application, purpose and audience, user manual, modules, libraries, and technology used, limitations of the app, and future improvements. It also details where to find codes for debugging and improvement. 
 
